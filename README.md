@@ -819,7 +819,7 @@ Platforms for patent searching, analytics, and intellectual property portfolio m
 - [Anaqua](https://www.anaqua.com) - **[Established]** Comprehensive IP management system.
 - [AltLegal](https://www.altlegal.com) - **[Established]** Automated trademark docketing and protection.
 - [Trademarkia](https://www.trademarkia.com) - **[Established]** Global trademark search engine and registration platform.
-
+  [PatentSolve](https://patentsolve.com) - **[Established]** End-to-end US patent prosecution AI: drafting, proofreading, OA response, and examiner analytics for patent attorneys, agents, and in-house IP teams 
 ---
 
 ## Contract Lifecycle Management (CLM)
